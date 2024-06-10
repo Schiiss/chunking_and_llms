@@ -1,0 +1,11 @@
+azure-ai-documentintelligence==1.0.0b1
+azure-identity==1.16.0
+azure-search-documents==11.6.0b3
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-openai==0.1.8
+langchainhub==0.1.17
+openai==1.30.5
+tiktoken==0.7.0
+python-dotenv==1.0.1
+pandas==2.2.2
