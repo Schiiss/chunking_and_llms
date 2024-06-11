@@ -9,3 +9,4 @@ openai==1.30.5
 tiktoken==0.7.0
 python-dotenv==1.0.1
 pandas==2.2.2
+pypdf==4.2.0
